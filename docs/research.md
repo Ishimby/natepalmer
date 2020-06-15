@@ -1,6 +1,6 @@
-# Research
-
 [Research](https://ishimby.github.io/natepalmer/research.html) | [Teaching](https://ishimby.github.io/natepalmer/teaching.html) | [Resources](https://ishimby.github.io/natepalmer/resources.html) | [Speaking](https://ishimby.github.io/natepalmer/speaking.html) | [Blog](https://ishimby.github.io/natepalmer/blog.html)
+
+# Research
 
 [Curriculum Vitae](https://cv-nathan-palmer.s3.us-east-1.amazonaws.com/CV_Nathan_Palmer_2020.pdf) ([PDF](https://cv-nathan-palmer.s3.us-east-1.amazonaws.com/CV_Nathan_Palmer_2020.pdf))
 

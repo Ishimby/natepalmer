@@ -1,6 +1,6 @@
-# Speaking
-
 [Research](https://ishimby.github.io/natepalmer/research.html) | [Teaching](https://ishimby.github.io/natepalmer/teaching.html) | [Resources](https://ishimby.github.io/natepalmer/resources.html) | [Speaking](https://ishimby.github.io/natepalmer/speaking.html) | [Blog](https://ishimby.github.io/natepalmer/blog.html)
+
+# Speaking
 
 Every audience is an opportunity. When we come together to share honestly, listen intently, and engage each other in good faith deep learning and meaningful change becomes possible. 
 

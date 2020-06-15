@@ -1,6 +1,6 @@
-# About
-
 [Research](https://ishimby.github.io/natepalmer/research.html) | [Teaching](https://ishimby.github.io/natepalmer/teaching.html) | [Resources](https://ishimby.github.io/natepalmer/resources.html) | [Speaking](https://ishimby.github.io/natepalmer/speaking.html) | [Blog](https://ishimby.github.io/natepalmer/blog.html)
+
+# About
 
 ![Nathan Palmer](https://res.cloudinary.com/ishimby/image/upload/v1592239051/2016_-_Profile_Pic_-_Medium_-_2000x1333_vwa0yk.jpg)
 
