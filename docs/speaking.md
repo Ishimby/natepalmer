@@ -12,7 +12,7 @@ Over the last ten years, I've developed a knack for navigating hard conversation
 ## Succeeding Through Struggle
 
 ![Nathan speaking at Georgia Southern University in 2019](https://res.cloudinary.com/ishimby/image/upload/v1592239916/Presenting_at_GSU_2019_2000x1334_dcecvn.jpg)
-_caption:_ Nathan speaking to 800+ students at Georgia Southern University in 2019.
+_Nathan speaking to 800+ students at Georgia Southern University in 2019._
 
 **Coming soon.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
