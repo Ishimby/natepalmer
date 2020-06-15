@@ -5,4 +5,6 @@
 
 Under construction. More soon.
 
+---
+
 © 2020 [Nathan Palmer](https://ishimby.github.io/natepalmer/about.html) All Rights Reserved.

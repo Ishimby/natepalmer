@@ -20,3 +20,7 @@ Find more teaching resources [here](https://ishimby.github.io/natepalmer/researc
 ## Current Students
 
 If you're currently in class with me, you may find this site helpful, but be sure to check our class's [My.GeorgiaSouther.edu](https://my.georgiasouthern.edu/) page for the most up-to-date information.
+
+---
+
+© 2020 [Nathan Palmer](https://ishimby.github.io/natepalmer/about.html) All Rights Reserved.

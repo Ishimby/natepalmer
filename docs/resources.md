@@ -21,4 +21,6 @@ Coming soon.... <!-- [Blog roll of most 2-3 most recent blog posts with tag reso
 
 Great educational resources created by others. If you know of a great resource that should be included here, [send me your recommendation](https://ishimby.github.io/natepalmer/contact.html). 
 
+---
+
 © 2020 [Nathan Palmer](https://ishimby.github.io/natepalmer/about.html) All Rights Reserved.

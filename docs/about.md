@@ -10,4 +10,6 @@ As an educator I've received multiple awards for teaching and contributions to t
 
 My [curriculum vitae](https://cv-nathan-palmer.s3.us-east-1.amazonaws.com/CV_Nathan_Palmer_2020.pdf) has even more information about me and my work.
 
+---
+
 © 2020 [Nathan Palmer](https://ishimby.github.io/natepalmer/about.html) All Rights Reserved.
