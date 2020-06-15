@@ -1,6 +1,6 @@
 # Teaching
 
-## Courses
+## Current Courses
 
 - **Intro to Sociology** 
 	- Course Site / Syllabus
@@ -12,7 +12,7 @@
 
 ## Resources for Instructors
 
-Find more teaching resources [here](#Resources).
+Find more teaching resources [here](https://ishimby.github.io/natepalmer/research.html).
 
 ## Current Students
 
