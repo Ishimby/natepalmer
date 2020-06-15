@@ -21,4 +21,6 @@ _Nathan speaking to 800+ students at Georgia Southern University in 2019._
 * C's Earn Degrees, But Skills Pay Bills
 * **More soon.**
 
+---
+
 © 2020 [Nathan Palmer](https://ishimby.github.io/natepalmer/about.html) All Rights Reserved.

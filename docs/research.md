@@ -20,4 +20,6 @@ I investigate how people make sense of social phenomena. Currently, I am focused
 
 - **2016** - "Sociology Source Website." In Matt Wray, Jessie Daniels, and Tina Fetner, editors, _Promoting Sociological Research: A Toolkit_ Pp 34-35. American Sociological Association, Washington, DC. [PDF](https://www.asanet.org/sites/default/files/promoting_sociological_research_toolkit_2016.pdf)
 
+---
+
 © 2020 [Nathan Palmer](https://ishimby.github.io/natepalmer/about.html) All Rights Reserved.
