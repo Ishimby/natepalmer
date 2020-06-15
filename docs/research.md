@@ -1,5 +1,7 @@
 # Research
 
+[Research](https://ishimby.github.io/natepalmer/research.html) | [Teaching](https://ishimby.github.io/natepalmer/teaching.html) | [Resources](https://ishimby.github.io/natepalmer/resources.html) | [Speaking](https://ishimby.github.io/natepalmer/speaking.html) | [Blog](https://ishimby.github.io/natepalmer/blog.html)
+
 [Curriculum Vitae](https://cv-nathan-palmer.s3.us-east-1.amazonaws.com/CV_Nathan_Palmer_2020.pdf) ([PDF](https://cv-nathan-palmer.s3.us-east-1.amazonaws.com/CV_Nathan_Palmer_2020.pdf))
 
 I investigate how people make sense of social phenomena. Currently, I am focused on how people in the U.S. make sense of their social class position and how they explain why some people succeed and others struggle. I'm fascinated by how people develop the ability to recognize the ways that society influences individuals and how individuals come together to form society itself (this ability is what C. Wright Mills called the Sociological Imagination). This fascination led me to research how sociology novices (e.g. students, the general public, etc.) understand social phenomena and develop a sociological imagination.
@@ -17,3 +19,5 @@ I investigate how people make sense of social phenomena. Currently, I am focused
 ## Book Chapters
 
 - **2016** - "Sociology Source Website." In Matt Wray, Jessie Daniels, and Tina Fetner, editors, _Promoting Sociological Research: A Toolkit_ Pp 34-35. American Sociological Association, Washington, DC. [PDF](https://www.asanet.org/sites/default/files/promoting_sociological_research_toolkit_2016.pdf)
+
+© 2020 [Nathan Palmer](https://ishimby.github.io/natepalmer/about.html) All Rights Reserved.
